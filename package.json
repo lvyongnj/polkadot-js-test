@@ -1,0 +1,16 @@
+{
+  "name": "js-component",
+  "version": "1.0.0",
+  "description": "Demo connecting to Substrate Node Template",
+  "main": "index.js",
+  "author": "Yong Lv",
+  "license": "Unlicense",
+  "private": false,
+  "dependencies": {
+    "@polkadot/api": "^10.9.1",
+    "@polkadot/types": "^10.9.1"
+  },
+  "scripts": {
+    "start": "ts-node main.ts"
+  }
+}
